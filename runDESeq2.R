@@ -1,5 +1,5 @@
 # script to perform differential gene expression analysis using DESeq2 package
-# setwd("~/Desktop/demo/DESeq2_tutorial/data")
+# setwd(C:\Users\Dell\Downloads\DESeq2)
 
 # load libraries
 library(DESeq2)
